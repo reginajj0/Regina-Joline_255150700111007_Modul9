@@ -1,4 +1,4 @@
-# README – Program GUI Perhitungan Nilai Mata Kuliah Java AWT
+# Program GUI Perhitungan Nilai Mata Kuliah Java AWT
 
 ## Deskripsi Program
 
